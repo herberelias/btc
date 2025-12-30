@@ -1,0 +1,2 @@
+# This directory contains trained ML models (.pkl files)
+# Files in this directory are ignored by git (.gitignore)

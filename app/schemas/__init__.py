@@ -1,0 +1,3 @@
+"""
+Package para schemas Pydantic
+"""
